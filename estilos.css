@@ -21,7 +21,8 @@ body {
 .grid > .slider{
     height:250px;
     color:#000000;
-    background-size:cover; background-image:url("https://scontent.fsap4-1.fna.fbcdn.net/v/t39.30808-6/416962874_746761930817939_5121214149925556909_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=BMPutyY_7oIQ7kNvgHRLfIK&_nc_zt=23&_nc_ht=scontent.fsap4-1.fna&_nc_gid=AHn7S2xPHv_Enja_Gv5Z2Zf&oh=00_AYDjOaRBJrdtx-jL1DIsUEFuwLhGD58GiIMR-RIMJLJdXw&oe=6768FB95");
+    background-size:cover; 
+    background-image:url("https://hillsandvalleys.ph/wp-content/uploads/2023/08/dunkin-donuts-franchise-philippines-alternative.webp);
 }
 
 .grid > .slider p{
